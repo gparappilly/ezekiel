@@ -12,4 +12,5 @@ To build on our project, various ideas could be:
  - Being able to add facts about the user (something that we could not finish in the time frame f the project). For example, it could learn about the user's name etc. For example, if you use the chatbot again. It could greet you with "Hello, John". (John being a random user name)
  - As our bot is meant to hold a conversation, rather than being a simple assistant. It would be cool for the bot to recognize a "boring" conversation and ask a question.
  
+ 
 Authors: Mehryar Maalem, Geordie Parappilly
