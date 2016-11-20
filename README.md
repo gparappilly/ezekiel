@@ -1,7 +1,7 @@
 # ezekiel
 
 What is the problem?
-Being able to chat with an artificial intelligence for the purpose of casual boredom or for getting immediate information is a feature in today’s world that can be capitalized in a number of ways. Inspired by ELIZA Wikipedia. We hope to create a conversational chat bot that you can converse with. Additionally, similar to a traditional personal assistant (Siri/Google Assistant) etc. We aim to also be able to ask it basic questions like "What is the weather forecast" as well. Given the NPL capabilities of Prolog, we are looking to explore whether prolog is an adequacy of its use to create simple Artificial Intelligence agents.
+Being able to chat with an artificial intelligence for the purpose of casual boredom or for getting immediate information is a feature in today’s world that can be capitalized in a number of ways. Inspired by [ELIZA](https://en.wikipedia.org/wiki/ELIZA). We hope to create a conversational chat bot that you can converse with. Additionally, similar to a traditional personal assistant (Siri/Google Assistant) etc. We aim to also be able to ask it basic questions like "What is the weather forecast" as well. Given the NPL capabilities of Prolog, we are looking to explore whether prolog is an adequacy of its use to create simple Artificial Intelligence agents.
 
 The difficulty is for our program to be able to respond to the user in a "natural way" as well as understand a wide variety of inputs that are possible. - Is to be able to have a decent user interface, instead of having the user input coming in as a list of words. (like our assignments)
 
